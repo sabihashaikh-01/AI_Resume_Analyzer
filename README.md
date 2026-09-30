@@ -307,7 +307,7 @@ Potential future improvements include:
 
 ## 👩‍💻 Author
 
-**SABIHA**
+**Sabiha**
 
 ---
 
