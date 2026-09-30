@@ -7,7 +7,8 @@ ResumeIQ is an AI-powered resume analysis application built with **Python, Strea
 
 It analyzes how well a resume matches a specific job description and provides insights into **ATS compatibility, skills, keywords, semantic similarity, resume quality, and improvement areas**.
 
-
+#Application Preview:
+<img width="942" height="906" alt="image" src="https://github.com/user-attachments/assets/d2d0c30e-dd78-4715-84cf-2d6e2a755336" />
 ---
 
 ## ✨ Features
