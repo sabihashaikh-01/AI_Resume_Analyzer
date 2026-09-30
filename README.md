@@ -1,10 +1,12 @@
 # ResumeIQ — AI Resume Analyzer
 
+> 🚀 **Live Demo:** [Try ResumeIQ](https://airesumeanalyzer-pqgaand3dqnngnsflu2dub.streamlit.app/)
 > **Analyze your resume. Match it with a job description. Get actionable insights.**
 
 ResumeIQ is an AI-powered resume analysis application built with **Python, Streamlit, NLP, Sentence Transformers, and Gemini AI**.
 
 It analyzes how well a resume matches a specific job description and provides insights into **ATS compatibility, skills, keywords, semantic similarity, resume quality, and improvement areas**.
+
 
 ---
 
